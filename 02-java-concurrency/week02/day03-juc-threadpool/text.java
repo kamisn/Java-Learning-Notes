@@ -1,4 +1,4 @@
-class Solution {
+class Solution03 {
     public int search(int[] arr, int target) {
         // 左右指针初始化
         int left = 0;

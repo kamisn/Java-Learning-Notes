@@ -1,4 +1,4 @@
-# 4.7 周二
-上午：JMM、volatile、happens-before
-下午：Lock、ReentrantLock、读写锁
-算法：层序遍历、验证BST
+# 4.11 周六
+上午：死锁四个条件、检测、避免
+下午：并发面试题总结
+算法：前K高频、第K大元素

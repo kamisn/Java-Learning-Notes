@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/02-java-concurrency/week02/day02-jmm-volatile-lock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-java-concurrency/week02/day03-juc-threadpool" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-java-concurrency/week02/day04-chm-cas-aqs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-concurrency/week02/day06-deadlock-interview" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-jvm/week03/day01-memory-structure" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
